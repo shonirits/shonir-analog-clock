@@ -1,4 +1,4 @@
-# shonir-analog-clock
+# [_/*****\_ SHONiR ANALOG CLOCK _/*****\_]
 
 Multiple Timezone Simple Analog Clock Using HTML , CSS And Javascript
 
@@ -17,3 +17,4 @@ Codepen Preview Shonir Analog Clock using javascript poject
 
 https://codepen.io/shonirits/pen/BaVjzGP
 
+Official Website: www.shonir.com
