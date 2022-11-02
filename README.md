@@ -50,6 +50,10 @@ int_shonir_analog_clock("myfirstclockid", "Asia/Karachi");
 </script>
 ```
 
+INSTALL VIA NPM
+```
+npm i shonir-analog-clock
+```
 
 YOU CAN ADD MULTIPLE CLOCK AS MUCH AS YOU WISH ON SAME PAGE.
 

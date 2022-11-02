@@ -1,0 +1,42 @@
+{
+  "name": "shonir-analog-clock",
+  "version": "1.0.0",
+  "description": "Multiple Timezone Simple Analog Clock Using HTML , CSS And Javascript",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shonirits/shonir-analog-clock.git"
+  },
+  "keywords": [
+    "Simple",
+    "Analog",
+    "Clock",
+    "HTML",
+    "Analog",
+    "Clock",
+    "CSS",
+    "Analog",
+    "Clock",
+    "Javascript",
+    "Analog",
+    "Clock",
+    "Shonir",
+    "Analog",
+    "Clock",
+    "Multiple",
+    "Analog",
+    "Clock",
+    "timezone",
+    "Analog",
+    "Clock"
+  ],
+  "author": "Mian Shoaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shonirits/shonir-analog-clock/issues"
+  },
+  "homepage": "https://github.com/shonirits/shonir-analog-clock#readme"
+}
