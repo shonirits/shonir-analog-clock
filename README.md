@@ -22,7 +22,7 @@ JSDelivr JS:
 
 USE HTML CODE:
 ```
-<div id="myfirstclockid" class="analog_clock d-flex justify-content-center">
+<div id="myfirstclockid" class="analog_clock">
 <div>
 <div class="info date"></div>
 <div class="info time"></div>
